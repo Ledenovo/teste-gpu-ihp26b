@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_example (
+module tt_um_ledenovo_gpu (
     input  wire [7:0] ui_in,    // Entradas dedicadas
     output wire [7:0] uo_out,   // Saídas dedicadas
     input  wire [7:0] uio_in,   // Pinos bidirecionais (Entrada)
